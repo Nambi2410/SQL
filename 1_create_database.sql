@@ -1,0 +1,3 @@
+CREATE DATABASE Assessment_1;
+
+-- DROP DATABASE IF EXISTS Assessment_1;
