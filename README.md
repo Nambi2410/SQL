@@ -1,2 +1,4 @@
 # SQL
- All my projects on sql are uploaded here
+ Assessment 1 
+ Assessment 2
+ 
